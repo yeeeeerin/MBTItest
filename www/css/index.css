@@ -1,0 +1,67 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+
+#info{
+	text-align:center;
+}
+
+#resultDetail_page .title{
+	position: absolute;
+	top: 1%;
+	left: 53%;
+
+}
+
+.div-border{
+	border-radius:5px;
+}
+
+/*MBTI 4가지 선호지표 css*/
+.tabs img{
+	margin-top: 13px;
+}
+
+div[data-role="header"]{
+	background-color: #000000;
+	border-color: #003295;
+}
+div[data-role="footer"]{
+	background-color: #000000;
+	border-color: #003295;
+}
+div[data-role="content"]{
+	background-color: #FFD3D8;
+}
+.noneBack{
+	background-color: #f6f6f6;
+}
+.tabs{
+
+	font-family: 'Nanum Pen Script', serif;
+	background-color: white;
+	padding: 6px;
+	padding-right: 15px;
+	padding-left: 15px;
+	border-radius: 0px 0px 5px 5px;
+	
+}
+
+/*navbar 꾸미기*/
+#a1{
+	border-radius: 5px 0px 0px 0px;
+}
+#a2{
+	border-radius: 0px 5px 0px 0px;
+}
+
+.ui-btn-active, .ui-state-persist, .ui-link, .ui-btn, .ui-tabs-anchor{
+	background-color: #000;
+	border-color: #38c;
+}
+
+#detail_sTitle{
+	color:#FFD3D8;
+}
+
+
+
+
